@@ -5,4 +5,3 @@ http://www.ebay.com/itm/GlobalSat-BU-353-SiRF-III-USB-GPS-receiver-/231111114048
 http://www.ebay.com/itm/LM2596-DC-DC-Step-Down-Power-Module-4-2V-40V-to-1-25V-37V-Converter-/231140985050?pt=LH_DefaultDomain_0&hash=item35d11388da
 http://www.ebay.com/itm/MPU-6050-3-Axis-gyroscope-3Axis-accelerometer-module-3-3V-5V-for-arduino-/151164623376?pt=LH_DefaultDomain_0&hash=item23321d1a10
 http://blog.bitify.co.uk/2013/11/reading-data-from-mpu-6050-on-raspberry.html
-this is a test
